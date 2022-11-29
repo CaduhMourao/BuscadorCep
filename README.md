@@ -1,5 +1,5 @@
-Site de buscar CEP, feito com Reactjs e API.
+<h1>Buscador de CEP</h1>
 
-https://um-buscador-cep.netlify.app
+Site de buscar CEP, feito com Reactjs e API do site https://viacep.com.br/ws.
 
-<img src="https://github.com/CaduhMourao/ImagensProjetos/blob/main/BuscadorCep/Screenshot%202022-08-21%20at%2009-59-41%20Buscador%20de%20CEP.png" />
+<a href="https://um-buscador-cep.netlify.app" target="_blank"> Você pode acessar o buscar clicando aqui</a>
